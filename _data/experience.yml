@@ -1,8 +1,20 @@
 # Jobs
+# Network Automation Engineer
+- company: InsightGlobal
+  position: Network Automation Engineer
+  duration: January 2023 &mdash; Present
+  summary: AWS and NAC Automation Engineering using Itential<ul class="resume-item-list">
+      <li>Contracted to work soley for Johnson & Johnson on their Network Software and Automation Team.</li>
+      <li>Created cloud network device self-service automation that can deploy either a set of CSR8000v routers in AWS and register with vManage using cloud_init as userData or a set of FTDv firewalls in AWS and register with FMC.</li>
+      <li>Created NAC phase 2 and 3 inventory and deployment automation that can poll the switches at a site, generate CSV reports on current and proposed configurations and deploy those configuration into the production environment.</li>
+      <li>Installed and configured AWS EC2 opensource Itential adapter in linux using git.</li>
+      <li>Created Jinja templates that can take switch data and create a formatted CSV file and also generate email reports.</li>
+    </ul>
+
 # Cloud / DevOps Engineer at Presidio
 - company: Presidio
   position: Cloud / DevOps Engineer
-  duration: August 2022 &mdash; Present
+  duration: August 2022 &mdash; November 2022
   summary: Cloud Architect and Engineering, DevOps and Network Automation<ul class="resume-item-list">
       <li>Now on the DevOps/Cloud Engineering team I have built Ansible playbooks using Jinja to update network equipment and utilized Python and JavaScript to make MACD in Cisco CallManager and Unity.</li>
       <li>Utilized Postman to make API calls to Meraki.</li>
