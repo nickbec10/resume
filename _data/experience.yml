@@ -3,11 +3,13 @@
 - company: InsightGlobal
   position: Network Automation Engineer
   duration: January 2023 &mdash; Present
-  summary: AWS and NAC Automation Engineering using Itential<ul class="resume-item-list">
+  summary: Cloud Automation Engineering using Itential Platform to deploy AWS and Azure Infrastructure<ul class="resume-item-list">
       <li>Contracted to work soley for Johnson & Johnson on their Network Software and Automation Team.</li>
+      <li>Created cloud region deployment automation for Azure. Generates JSON templates using jinja and deploys VNETs, subnets, public IPs, load balancers, network security grous, route tables and virtual machines in multiple Azure resource groups.</li>
+      <li>Created a subnet calculator in python to divide a given address prefix into multiple subnets. Used in cloud region deployment automation.</li>
       <li>Created cloud network device self-service automation that can deploy either a set of CSR8000v routers in AWS and register with vManage using cloud_init as userData or a set of FTDv firewalls in AWS and register with FMC.</li>
       <li>Created NAC phase 2 and 3 inventory and deployment automation that can poll the switches at a site, generate CSV reports on current and proposed configurations and deploy those configuration into the production environment.</li>
-      <li>Installed and configured AWS EC2 opensource Itential adapter in linux using git.</li>
+      <li>Used bitbucket and git for versioning, testing and promoting automations.</li>
       <li>Created Jinja templates that can take switch data and create a formatted CSV file and also generate email reports.</li>
     </ul>
 
