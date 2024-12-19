@@ -3,14 +3,13 @@
 - company: InsightGlobal
   position: Network Automation Engineer
   duration: January 2023 &mdash; Present
-  summary: Cloud Automation Engineering using Itential Platform to deploy AWS and Azure Infrastructure<ul class="resume-item-list">
-      <li>Contracted to work soley for Johnson & Johnson on their Network Software and Automation Team.</li>
-      <li>Created cloud region deployment automation for Azure. Generates JSON templates using jinja and deploys VNETs, subnets, public IPs, load balancers, network security grous, route tables and virtual machines in multiple Azure resource groups.</li>
-      <li>Created a subnet calculator in python to divide a given address prefix into multiple subnets. Used in cloud region deployment automation.</li>
+  summary: Contracted solely to Johnson & Johnson working as a cloud automation engineer using Itential Platform to deploy AWS and Azure infrastructure<ul class="resume-item-list">
+      <li>Created cloud region deployment automation for Azure. Generated JSON templates using Jinja and deploys VNETs, subnets, public IPs, load balancers, network security groups, route tables and virtual machines in multiple Azure resource groups.</li>
+      <li>Authored a subnet calculator in python to divide a given address prefix into multiple subnets. Called in cloud region deployment automation.</li>
       <li>Created cloud network device self-service automation that can deploy either a set of CSR8000v routers in AWS and register with vManage using cloud_init as userData or a set of FTDv firewalls in AWS and register with FMC.</li>
       <li>Created NAC phase 2 and 3 inventory and deployment automation that can poll the switches at a site, generate CSV reports on current and proposed configurations and deploy those configuration into the production environment.</li>
       <li>Used bitbucket and git for versioning, testing and promoting automations.</li>
-      <li>Created Jinja templates that can take switch data and create a formatted CSV file and also generate email reports.</li>
+      <li>Authored Jinja templates that can take switch data and create a formatted CSV file and also generate email reports.</li>
     </ul>
 
 # Cloud / DevOps Engineer at Presidio
@@ -18,7 +17,7 @@
   position: Cloud / DevOps Engineer
   duration: August 2022 &mdash; November 2022
   summary: Cloud Architect and Engineering, DevOps and Network Automation<ul class="resume-item-list">
-      <li>Now on the DevOps/Cloud Engineering team I have built Ansible playbooks using Jinja to update network equipment and utilized Python and JavaScript to make MACD in Cisco CallManager and Unity.</li>
+      <li>Moved to DevOps/Cloud Engineering team where I built Ansible playbooks using Jinja to update network equipment and utilized Python and JavaScript to make MACD in Cisco CallManager and Unity.</li>
       <li>Utilized Postman to make API calls to Meraki.</li>
       <li>Created AWS EC2 multi-AZ redundant instances running nginx and used security groups and application load balancers to host the web server securely using SSL.</li>
       <li>Created simple CRUD APIs using API gateway, Lambda and DynamoDB.</li>
@@ -30,8 +29,8 @@
   position: Senior Collaboration Engineer
   duration: September 2019 &mdash; August 2022
   summary: Unified Communications and Paging<ul class="resume-item-list">
-      <li>In 2021 I worked on the NC AOC eCourts upgrade where I utilized skills in Cisco DNA center, vManage, CUCM, CME, Unity, CUE, XMedius, InformaCast, analog voice and racking/stacking hardware. I developed code that increased the efficiency of the team, reducing hours and costs on the 40 million dollar project.</li>
-      <li>I was involved in several UC upgrades to 12.X that involve large voice clusters comprised of CUCM, Unity, UCCX, CUBE, and Attendant Console for City of Durham, Santee Cooper, NC DHHS, South Piedmont CC, Carolina Biological and Lion Oil, a new Jabber implementation for NC DHHS, a migration to SIP/Oracle SBC for PPL Electric and a SIP migration for Michelin.</li>
+      <li>Worked on the NC AOC eCourts upgrade where I utilized skills in Cisco DNA center, vManage, CUCM, CME, Unity, CUE, XMedius, InformaCast, analog voice and racking/stacking hardware. I developed code that increased the efficiency of the team, reducing hours and costs on the 40 million dollar project.</li>
+      <li>Involved in several UC upgrades to 12.X that involve large voice clusters comprised of CUCM, Unity, UCCX, CUBE, and Attendant Console for City of Durham, Santee Cooper, NC DHHS, South Piedmont CC, Carolina Biological and Lion Oil, a new Jabber implementation for NC DHHS, a migration to SIP/Oracle SBC for PPL Electric and a SIP migration for Michelin.</li>
     </ul>
 
 # Senior Network Engineer at Presidio
