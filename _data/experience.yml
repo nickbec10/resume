@@ -62,7 +62,7 @@
 - company: Under Armour
   position: Senior Network Engineer
   duration:  May 2009  &mdash; April 2014
-  summary: Principal network and voice architect and engineer<ul class="resume-item-list">
+  summary: Principal Network and Voice Architect and Engineer<ul class="resume-item-list">
       <li>Lead voice architect responsible for 3 global CUCM, Unity and UCCX clusters for several cluster upgrades and daily operations.</li>
       <li>Architect and team lead for Internet redundancy project changing our WAN infrastructure at HQ and DR sites from Static routes to EIGRP to edge and BGP on to Internet with redistribution. I acquired a /24 from ARIN and re-IP addressed all Internet facing applications.</li>
       <li>Architect and team lead for network installation at new Toronto warehouse where I managed cable vendors, supplied statement of work documents, drawings for wireless AP deployment, MDF/IDF installations, fiber runs and network drops.</li>
