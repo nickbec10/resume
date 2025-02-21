@@ -7,7 +7,7 @@
       <li>Created cloud region deployment automation for Azure. Generated JSON templates using Jinja and deploys VNETs, subnets, public IPs, load balancers, network security groups, route tables and virtual machines in multiple Azure resource groups.</li>
       <li>Authored a subnet calculator in python to divide a given address prefix into multiple subnets. Called in cloud region deployment automation.</li>
       <li>Created cloud network device self-service automation that can deploy either a set of CSR8000v routers in AWS and register with vManage using cloud_init as userData or a set of FTDv firewalls in AWS and register with FMC.</li>
-      <li>Created NAC phase 2 and 3 inventory and deployment automation that can poll the switches at a site, generate CSV reports on current and proposed configurations and deploy those configuration into the production environment.</li>
+      <li>Created NAC phase 2 and 3 inventory and deployment automation that can poll the switches at a site, generate CSV reports on current and proposed configurations and deploy those configurations into the production environment.</li>
       <li>Used bitbucket and git for versioning, testing and promoting automations.</li>
       <li>Authored Jinja templates that can take switch data and create a formatted CSV file and also generate email reports.</li>
     </ul>

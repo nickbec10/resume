@@ -8,6 +8,7 @@
   certs:
     - cert: AWS Certified Developer - Associate
     - cert: AWS Certified Solutions Architect - Associate
+    - cert: Microsoft Certified Azure Fundamentals
     - cert: HashiCorp Certified Terraform Associate
     - cert: Cradlepoint Certified Network Professional
     - cert: Meraki Certified Meraki Network Associate (CMNA)
